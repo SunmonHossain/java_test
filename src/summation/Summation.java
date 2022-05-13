@@ -1,7 +1,7 @@
+//factory pattern
+package summationFactory;
 
-package summation;
-
-public class Summation {
+public class SummationFactory {
 
    
     public static void main(String[] args) {
