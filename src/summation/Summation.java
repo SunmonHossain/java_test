@@ -1,14 +1,14 @@
 
 package summation;
 
-public class Summation {
+public class sum {
 
    
     public static void main(String[] args) {
         int sum = 0;
-        int n = 50;
-        for (int i = 1; i <= n; i++) {
-            sum = sum + i;
+        int k = 50;
+        for (int j = 1; j <= k; j++) {
+            sum = sum + j;
       } 
       System.out.println("The Sum Of " + n + " is " + sum);
     }
